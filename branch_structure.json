@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/openapi-client-generation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/openapi-client-generation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/openapi-client-generation",
+    "origin"
+  ]
+}
